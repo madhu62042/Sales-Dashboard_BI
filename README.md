@@ -1,4 +1,3 @@
-```
 
 **Sales Analysis Dashboard**
 
