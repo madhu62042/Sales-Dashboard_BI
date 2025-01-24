@@ -1,3 +1,5 @@
+Here's the updated, more detailed `README.md` file with a guide on adding screenshots of your dashboard using Markdown:  
+
 ```markdown
 # Sales Analysis Dashboard 📊  
 
@@ -44,6 +46,16 @@ Here’s a preview of the dashboard:
 
 ### Dashboard Overview  
 ![Dashboard Overview](images/dashboard-overview.png)  
+
+### Scatter Plot - Profit vs Sales  
+![Scatter Plot](images/scatter-plot.png)  
+
+*Note: To add screenshots to your repository, follow these steps:*  
+1. Save your screenshots in a folder named `images` within your project directory.  
+2. Reference these images in Markdown using the syntax:  
+   ```markdown
+   ![Alt Text](path-to-image/image-name.png)
+   ```  
 
 ---
 
