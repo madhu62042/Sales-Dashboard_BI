@@ -3,6 +3,8 @@
 
 Welcome to my Sales Analysis Dashboard project, built using Power BI. This project focuses on applying data visualization techniques to extract meaningful insights from a sales dataset.
 
+![BERT Architecture](https://github.com/madhu62042/Sales-Dashboard_BI/blob/main/Images/1.png)
+
 **Overview**  
 This dashboard provides a comprehensive analysis of sales data. It allows users to:  
 - Identify high-performing regions and product categories.  
