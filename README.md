@@ -50,12 +50,6 @@ Would you like this formatted or simplified further? Let me know! 😊## 📝 In
 
 ---
 
-## 🔗 Links  
-- **View My LinkedIn Post**: [LinkedIn Post](<add-link>)  
-- **GitHub Repository**: [GitHub Profile](<add-link>)  
-
----
-
 ## 💡 How to Use  
 1. Clone or download this repository.  
 2. Open the `Sales-Analysis.pbix` file in Power BI Desktop.  
@@ -74,7 +68,7 @@ Have suggestions or want to collaborate? Feel free to fork the repository, make 
 ---
 
 ### 📬 Contact  
-For any questions or feedback, feel free to connect with me on [LinkedIn](<add-link>) or check out my other projects on [GitHub](<add-link>).  
+For any questions or feedback, feel free to connect with me on [LinkedIn](<https://www.linkedin.com/in/madhumangal-kumar-828831252/>) or check out my other projects on [GitHub](<https://github.com/madhu62042>).  
 
 ---
 
@@ -86,5 +80,3 @@ For any questions or feedback, feel free to connect with me on [LinkedIn](<add-l
 2. **Screenshot Instructions**: Included Markdown code to add screenshots of the dashboard.  
 3. **Folder Structure**: Mentioned how to organize images and files in the repository.  
 4. **Contact and Contribution**: Added a section for contributors and a professional sign-off.  
-
-Let me know if you'd like further enhancements! 😊
